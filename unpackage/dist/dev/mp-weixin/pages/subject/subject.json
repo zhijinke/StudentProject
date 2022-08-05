@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-header": "/components/common/my-header",
+    "subject-item": "/components/subject/subject-item"
+  }
+}

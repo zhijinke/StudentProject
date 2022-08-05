@@ -1,0 +1,9 @@
+/* 公共的css样式 */
+
+/* 两侧边距 */
+.back-guage{
+	padding: 0 40rpx;
+}
+.font{
+	font-family: Microsoft yahei;
+}

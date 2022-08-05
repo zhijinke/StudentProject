@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/process/process",
+    "pages/question/question",
+    "pages/card/card",
+    "pages/contract/contract",
+    "pages/show-contract/show-contract",
+    "pages/start-school/start-school",
+    "pages/enter-school/enter-school",
+    "pages/consulting-help/consulting-help",
+    "pages/subject/subject",
+    "pages/show-manage/show-manage"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

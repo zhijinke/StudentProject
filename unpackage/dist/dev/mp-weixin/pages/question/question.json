@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my_tabbar": "/components/common/my-tabbar",
+    "question-commidty": "/components/question/question-commidty",
+    "my-header": "/components/common/my-header"
+  }
+}

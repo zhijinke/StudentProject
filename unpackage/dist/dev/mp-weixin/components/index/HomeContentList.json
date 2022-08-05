@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "home-content-item": "/components/index/HomeContentItem"
+  }
+}

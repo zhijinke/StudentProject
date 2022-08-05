@@ -1,0 +1,1 @@
+<view class="question-commidty data-v-48238285"><block wx:for="{{questionData}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="data-v-48238285"><question-item vue-id="{{'876561be-1-'+index}}" item="{{item}}" class="data-v-48238285" bind:__l="__l"></question-item></view></block></view>
